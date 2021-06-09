@@ -1,4 +1,4 @@
-# Skynox-Internship-Task
+# (Shopping Cart)Webpage-Design-Project
 
 Hello, 
 This webpage was designed using HTML and CSS purely. This design is responsive for both desktop and mobile screen views. 
